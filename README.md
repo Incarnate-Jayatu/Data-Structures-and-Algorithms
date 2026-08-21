@@ -66,6 +66,16 @@ A complete collection of **Data Structures & Algorithms (DSA)** problem-solving 
 
 ---
 
+## 🚀 Built with Vibe Coding
+
+This handbook website was created using **Vibe Coding** — an AI-assisted development approach where ideas are transformed into a polished, interactive product through natural language collaboration.
+
+Instead of relying solely on traditional coding workflows, the project combines human creativity with AI to design the interface, structure the content, and build a searchable learning experience for DSA.
+
+> *Crafted by Jayatu using Vibe Coding + AI.*
+
+---
+
 ## ⭐ Repository Goal
 
 This repository aims to become a **one-stop DSA reference** where every major problem-solving technique is explained with concise theory and practical code implementations.
