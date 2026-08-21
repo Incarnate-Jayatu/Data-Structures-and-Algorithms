@@ -1,8 +1,6 @@
 # Data Structures & Algorithms
 
-A complete **Data Structures & Algorithms** repository containing theory, time & space complexity, data structures, algorithms, and problem-solving techniques with implementations in **C++** and **Python**.
-
-**🌐 Website:** https://dsa-pattern-and-techniques.vercel.app/
+A complete **Time Complexity** and **Data Structures & Algorithms** repository containing theory, time & space complexity, data structures, algorithms, and problem-solving techniques with implementations in **C++** and **Python**.
 
 ---
 
@@ -17,35 +15,6 @@ This repository is built for:
 - Placement Preparation
 
 Every topic includes theory, complexity analysis, and optimized implementations.
-
----
-
-# Repository Structure
-
-```text
-Data-Structures-and-Algorithms/
-│
-├── Time-Complexity/
-├── DSA-Pattern-and-Techniques/
-├── Arrays/
-├── Strings/
-├── Searching/
-├── Sorting/
-├── Recursion/
-├── Linked-List/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Binary-Search-Tree/
-├── Heap/
-├── Hashing/
-├── Graph/
-├── Greedy/
-├── Dynamic-Programming/
-├── Backtracking/
-├── Bit-Manipulation/
-└── README.md
-```
 
 ---
 
