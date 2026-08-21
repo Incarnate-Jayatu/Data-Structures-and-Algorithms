@@ -1,6 +1,4 @@
-# DSA-Patterns-and-Techniques
-
-# 📘 DSA Techniques — The Complete Handbook
+# 📘 DSA Patterns and Techniques — The Complete Guide
 
 A complete collection of **Data Structures & Algorithms (DSA)** problem-solving techniques with **theory, time & space complexity, and implementations in both Python and C++**.
 
