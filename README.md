@@ -177,7 +177,7 @@ Every topic includes theory, complexity analysis, and optimized implementations.
 - Advanced DSA Patterns
 
 ---
-##🚀 Built with Vibe Coding
+## 🚀 Built with Vibe Coding
 
 All the data was created using **Vibe Coding** — an AI-assisted development approach where ideas are transformed into a polished, interactive product through natural language collaboration.
 
