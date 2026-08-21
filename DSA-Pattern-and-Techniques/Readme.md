@@ -89,10 +89,6 @@ Instead of relying solely on traditional coding workflows, the project combines 
 
 ---
 
-## ⭐ Repository Goal
-
-This repository aims to become a **one-stop DSA reference** where every major problem-solving technique is explained with concise theory and practical code implementations.
-
 If you find this helpful, consider giving the repository a **⭐ Star**!
 
 ---
