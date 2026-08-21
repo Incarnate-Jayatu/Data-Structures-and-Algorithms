@@ -32,26 +32,31 @@ Explore the interactive website here:
 
 ## 📂 Topics Covered
 
-- Arrays
-- Strings
-- Sliding Window
-- Two Pointers
-- Binary Search
-- Recursion & Backtracking
-- Linked List
-- Stack & Queue
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy Algorithms
-- Bit Manipulation
-- Hashing
-- Heap / Priority Queue
-- Trie
-- Segment Tree
-- Fenwick Tree
-- Disjoint Set Union (DSU)
-- Mathematical Algorithms
+## 📚 All 42 DSA Topics
+
+| **No.** | **Topic** | **No.** | **Topic** |
+|:---:|---|:---:|---|
+| 1 | Arrays | 22 | Fenwick Tree (BIT) |
+| 2 | Strings | 23 | Sparse Table |
+| 3 | Searching | 24 | Mathematics |
+| 4 | Sorting | 25 | Advanced Techniques |
+| 5 | Two Pointer Techniques | 26 | Matrix |
+| 6 | Sliding Window | 27 | Simulation |
+| 7 | Hashing | 28 | Enumeration |
+| 8 | Linked List | 29 | Design |
+| 9 | Stack | 30 | Ordered Set |
+| 10 | Queue & Deque | 31 | Geometry |
+| 11 | Recursion | 32 | Game Theory |
+| 12 | Backtracking | 33 | Minimax |
+| 13 | Binary Tree | 34 | Data Stream |
+| 14 | Binary Search Tree | 35 | Doubly-Linked List |
+| 15 | Heap | 36 | Randomized Algorithms |
+| 16 | Greedy Algorithms | 37 | Quickselect |
+| 17 | Dynamic Programming | 38 | Probability & Statistics |
+| 18 | Graphs | 39 | Reservoir Sampling |
+| 19 | Trie | 40 | Rejection Sampling |
+| 20 | Bit Manipulation | 41 | Biconnected Component |
+| 21 | Segment Tree | 42 | Database / SQL |
 
 ---
 
