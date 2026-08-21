@@ -124,3 +124,11 @@ After completing this section, you'll be able to:
 ---
 
 ⭐ If this repository helps you learn DSA, consider giving it a **Star**!
+
+---
+
+## © Copyright
+
+Copyright © 2026 Jayatu. All Rights Reserved.
+
+Built with Vibe Coding.
