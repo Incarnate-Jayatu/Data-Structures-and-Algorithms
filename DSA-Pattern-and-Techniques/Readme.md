@@ -26,7 +26,7 @@ Explore the interactive website here:
 - 💻 C++ implementations
   - STL / Built-in approach
   - From-scratch approach
-- 🔍 Searchable handbook interface
+- 🔍 Searchable interface
 
 ---
 
