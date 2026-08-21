@@ -19,6 +19,8 @@ Explore the interactive website here: 🔗 https://timecomplexity-seven.vercel.a
 - 📈 Growth rate comparison of common complexities
 - 🔍 Best, Average & Worst case analysis
 - 🔁 Loop complexity analysis (single, nested & dependent loops)
+- 🧮 Recurrence relations with Master Theorem
+- ⚡ Amortized analysis and dynamic array operations
 - 📊 Time complexity cheat sheets and constraint guide
 - 🎯 Interview-focused explanations
 
